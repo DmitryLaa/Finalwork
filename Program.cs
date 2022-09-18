@@ -1,7 +1,7 @@
-﻿bool check(string b)
+﻿bool check(string c)
 {
     bool result=true;
-    if (b.Length > 3)
+    if (c.Length > 3)
         result = true; 
         else result = false;
     return result;
